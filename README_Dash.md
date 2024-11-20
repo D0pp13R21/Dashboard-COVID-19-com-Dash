@@ -17,7 +17,7 @@ Este projeto é uma aplicação web interativa criada com o Dash para exibir inf
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/D0pp13R21/Dashboard-COVID-19-com-Dash
 cd nome-do-repositorio
 ```
 
